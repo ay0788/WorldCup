@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/FIFA_World_Cup_logo.svg" alt="World Cup Logo" width="200">
+  <img src="assets/sample_visualization.png" alt="Sample Visualization" width="600">
 </p>
-
 # 🌍⚽ World Cup Data Analysis
 
 Welcome to the **World Cup Data Analysis Project**! This repository is dedicated to exploring and analyzing data from the FIFA World Cup, one of the most celebrated sporting events globally. Dive deep into statistics, trends, and insights about teams, players, and historical tournaments.
