@@ -14,7 +14,6 @@ The goal of this project is to:
 ## 📂 Project Structure
 
 - **`WORLD_CUP.ipynb`**: The main Jupyter Notebook containing all data analysis and visualizations.
-- **`data/`**: Folder containing datasets used for analysis (if included).
 - **`README.md`**: This file, serving as documentation for the project.
 
 ## 📊 Key Insights
